@@ -1,0 +1,2 @@
+Línea 1 - Archivo 1
+Línea 2 - Archivo 1
